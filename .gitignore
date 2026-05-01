@@ -1,4 +1,8 @@
 datasets/
+references/
+phases/
+outputs/My_Project_Guide*
+outputs/Complete_Technical_Guide*
 *.csv
 *.zip
 __pycache__/
