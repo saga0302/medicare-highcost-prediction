@@ -1,10 +1,11 @@
 datasets/
 references/
 phases/
-outputs/My_Project_Guide*
-outputs/Complete_Technical_Guide*
+for_my_understanding/
 *.csv
 *.zip
+.DS_Store
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+
